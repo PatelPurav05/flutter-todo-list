@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "217676715887",
+    "project_id": "to-do-list-app-13b10",
+    "storage_bucket": "to-do-list-app-13b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217676715887:android:ffd50b9adb7001e4fc3a9a",
+        "android_client_info": {
+          "package_name": "com.purav.app_bootcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217676715887-p8hh743k8d62r8ppm4heghhs04mmst9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_B97VzDOS9nGqg7R_43GIBCwreyCbkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217676715887-p8hh743k8d62r8ppm4heghhs04mmst9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217676715887:android:96970c6aa26a1681fc3a9a",
+        "android_client_info": {
+          "package_name": "test.package"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217676715887-p8hh743k8d62r8ppm4heghhs04mmst9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_B97VzDOS9nGqg7R_43GIBCwreyCbkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217676715887-p8hh743k8d62r8ppm4heghhs04mmst9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
